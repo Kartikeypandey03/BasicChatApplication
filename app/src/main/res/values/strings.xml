@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasicChatApplication</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="Create_new_account">createNewAccount</string>
+    <string name="add_image">add image</string>
+    <string name="name">name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="select_user">Select User</string>
+    <string name="type_a_message">Type a message</string>
+</resources>
